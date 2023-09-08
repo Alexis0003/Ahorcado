@@ -1,0 +1,10 @@
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\obj\Debug\Ahorcado_API.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\obj\Debug\Ahorcado_API.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\bin\Debug\Ahorcado_API.exe.config
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\bin\Debug\Ahorcado_API.exe
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\bin\Debug\Ahorcado_API.pdb
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\obj\Debug\Ahorcado_API.csproj.CopyComplete
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\obj\Debug\Ahorcado_API.exe
+C:\Users\alexi\source\repos\Ahorcado_API\Ahorcado_API\obj\Debug\Ahorcado_API.pdb

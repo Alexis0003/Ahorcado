@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahorcado_API", "Ahorcado_API\Ahorcado_API.csproj", "{2A567A29-D534-414D-BED2-AC824FDD8A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A567A29-D534-414D-BED2-AC824FDD8A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A567A29-D534-414D-BED2-AC824FDD8A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A567A29-D534-414D-BED2-AC824FDD8A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A567A29-D534-414D-BED2-AC824FDD8A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994DCCE9-F060-4FC5-AC80-851DA131DF3E}
+	EndGlobalSection
+EndGlobal
