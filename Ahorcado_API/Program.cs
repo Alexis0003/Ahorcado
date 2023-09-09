@@ -4,6 +4,7 @@ using System.Net.Http;
 using System;
 using System.Collections.Generic;
 
+//Faltan Comentarios en tu codigo
 class Program
 {
     static Random random = new Random();
